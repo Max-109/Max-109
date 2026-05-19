@@ -7,7 +7,9 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="34" />
     </a>
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Discord-9624-%23d4a86b?style=flat-square&labelColor=3f3f46" alt="Discord 9624" />
+    <a href="https://x.com/Max_1097" title="X">
+      <img src="https://img.shields.io/badge/X-Max_1097-%23d4a86b?style=for-the-badge&labelColor=3f3f46" alt="X Max_1097" />
+    </a>
   </p>
 
   <p>
