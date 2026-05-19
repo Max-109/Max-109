@@ -8,7 +8,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://x.com/Max_1097" title="X">
-      <img src="https://cdn.simpleicons.org/x" alt="X" width="34" />
+      <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="34" />
     </a>
   </p>
 
