@@ -8,7 +8,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://x.com/Max_1097" title="X">
-      <img src="https://img.shields.io/badge/X-Max_1097-%23d4a86b?style=for-the-badge&labelColor=3f3f46" alt="X Max_1097" />
+      <img src="https://cdn.simpleicons.org/x/d4a86b" alt="X" width="34" />
     </a>
   </p>
 
@@ -25,23 +25,25 @@ Outside of work, I like building AI tools that feel practical and fast. A lot of
 
 ## Projects
 
-### Cracker
-
-Private AI chat app for an OpenAI-compatible API.
-
-<a href="https://github.com/Max-109/cracker">
-  <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker preview" width="760" />
-</a>
-
-### Glance
-
-A macOS live agent app. Press a shortcut, speak, and get the answer back out loud.
-
-Electron + Next.js + Bun frontend, Python backend.
-
-<a href="https://github.com/Max-109/Glance">
-  <img src="https://raw.githubusercontent.com/Max-109/Glance/main/docs/media/showcase.gif" alt="Glance preview" width="760" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cracker</h3>
+      <p>Private AI chat app for an OpenAI-compatible API.</p>
+      <a href="https://github.com/Max-109/cracker">
+        <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Glance</h3>
+      <p>A macOS live agent app. Press a shortcut, speak, and get the answer back out loud.</p>
+      <p>Electron + Next.js + Bun frontend, Python backend.</p>
+      <a href="https://github.com/Max-109/Glance">
+        <img src="https://raw.githubusercontent.com/Max-109/Glance/main/docs/media/showcase.gif" alt="Glance preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Codex API
 
