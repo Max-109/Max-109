@@ -8,7 +8,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://x.com/Max_1097" title="X">
-      <img src="https://cdn.simpleicons.org/x/d4a86b" alt="X" width="34" />
+      <img src="https://cdn.simpleicons.org/x" alt="X" width="34" />
     </a>
   </p>
 
@@ -45,6 +45,6 @@ Outside of work, I like building AI tools that feel practical and fast. A lot of
   </tr>
 </table>
 
-## Codex API
+## [Codex API](https://github.com/Max-109/codex-proxy-rs)
 
 A Rust OpenAI API that routes a Codex subscription through an API identical to OpenAI's `/v1` endpoint. The idea is simple: if you already have a subscription, you can use it from your own projects through the same OpenAI-style interface most tools already support.
