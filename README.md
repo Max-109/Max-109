@@ -28,14 +28,14 @@ Outside of work, I like building AI tools that feel practical and fast. A lot of
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cracker</h3>
+      <h3><a href="https://github.com/Max-109/cracker">Cracker</a></h3>
       <p>Private AI chat app for an OpenAI-compatible API.</p>
       <a href="https://github.com/Max-109/cracker">
         <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Glance</h3>
+      <h3><a href="https://github.com/Max-109/Glance">Glance</a></h3>
       <p>A macOS live agent app. Press a shortcut, speak, and get the answer back out loud.</p>
       <p>Electron + Next.js + Bun frontend, Python backend.</p>
       <a href="https://github.com/Max-109/Glance">
@@ -47,4 +47,4 @@ Outside of work, I like building AI tools that feel practical and fast. A lot of
 
 ## Codex API
 
-A Rust OpenAI-compatible API that routes a Codex subscription through an API shaped like OpenAI's `/v1/chat/completions` endpoint. The idea is simple: if you already have a subscription, you can use it from your own projects through a familiar OpenAI-style interface.
+A Rust OpenAI API that routes a Codex subscription through an API identical to OpenAI's `/v1` endpoint. The idea is simple: if you already have a subscription, you can use it from your own projects through the same OpenAI-style interface most tools already support.
