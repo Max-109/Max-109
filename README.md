@@ -1,3 +1,5 @@
+## Connect
+
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/maksas-gornostajus/" title="LinkedIn">
@@ -8,6 +10,7 @@
       <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="34" />
     </a>
   </p>
+</div>
 
 ## Projects
 
