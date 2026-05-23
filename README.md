@@ -37,7 +37,7 @@
       <h3 align="center">
         <a href="https://github.com/Max-109/Glance">Glance</a>
       </h3>
-      <p>macOS live agent: press a shortcut, speak, hear the answer.</p>
+      <p>Desktop live agent: press a shortcut, speak, hear the answer.</p>
       <sub>Voice replies · OCR shortcut · Eleven v3 · saved history · memory · tools</sub>
       <br /><br />
       <a href="https://github.com/Max-109/Glance">
