@@ -49,4 +49,6 @@
 
 ## [Codex API](https://github.com/Max-109/codex-proxy-rs)
 
-A Rust OpenAI API that routes a Codex subscription through an API identical to OpenAI's `/v1` endpoint. The idea is simple: if you already have a subscription, you can use it from your own projects through the same OpenAI-style interface most tools already support.
+OpenAI-compatible `/v1` proxy backed by a Codex account. It handles Codex login, stores local auth, and exposes model listing plus chat completions for OpenAI-style clients.
+
+<sub>`/v1/models` · `/v1/chat/completions` · streaming responses · browser/device login · local `cp_...` API keys · `gpt-5.5` and `gpt-5.5-fast`</sub>
