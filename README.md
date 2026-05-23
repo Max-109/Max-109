@@ -17,15 +17,25 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Max-109/cracker">Cracker</a></h3>
-      <p>Self-hostable private AI chat interface</p>
+      <h3>
+        <img src="./assets/cracker-icon.svg" alt="Cracker icon" width="28" align="top" />
+        <a href="https://github.com/Max-109/cracker">Cracker</a>
+      </h3>
+      <p>Private AI chat with a sharp dark interface.</p>
+      <sub>OpenAI account rotation · Expert / Balanced / Ultra Fast models · encrypted chats · MCP tools · web + mobile</sub>
+      <br /><br />
       <a href="https://github.com/Max-109/cracker">
         <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Max-109/Glance">Glance</a></h3>
-      <p>A live agent app. Press a shortcut, speak, and get the answer back out loud.</p>
+      <h3>
+        <img src="./assets/glance-icon.svg" alt="Glance icon" width="28" align="top" />
+        <a href="https://github.com/Max-109/Glance">Glance</a>
+      </h3>
+      <p>macOS live agent: press a shortcut, speak, hear the answer.</p>
+      <sub>Voice replies · OCR shortcut · Eleven v3 · saved history · memory · tools</sub>
+      <br /><br />
       <a href="https://github.com/Max-109/Glance">
         <img src="https://raw.githubusercontent.com/Max-109/Glance/main/docs/media/showcase.gif" alt="Glance preview" width="100%" />
       </a>
