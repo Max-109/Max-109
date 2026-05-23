@@ -17,8 +17,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>
-        <img src="./assets/cracker-icon.svg" alt="Cracker icon" width="28" align="top" />
+      <p align="center">
+        <img src="./assets/cracker-icon.svg" alt="Cracker icon" width="54" />
+      </p>
+      <h3 align="center">
         <a href="https://github.com/Max-109/cracker">Cracker</a>
       </h3>
       <p>Private AI chat with a sharp dark interface.</p>
@@ -29,8 +31,10 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>
-        <img src="./assets/glance-icon.svg" alt="Glance icon" width="28" align="top" />
+      <p align="center">
+        <img src="./assets/glance-icon.svg" alt="Glance icon" width="54" />
+      </p>
+      <h3 align="center">
         <a href="https://github.com/Max-109/Glance">Glance</a>
       </h3>
       <p>macOS live agent: press a shortcut, speak, hear the answer.</p>
