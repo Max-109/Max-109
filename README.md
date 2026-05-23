@@ -23,7 +23,7 @@
       <h3 align="center">
         <a href="https://github.com/Max-109/cracker">Cracker</a>
       </h3>
-      <p>Private AI chat with a sharp dark interface.</p>
+      <p>AI chat web and mobile app focused on UI/UX..</p>
       <sub>OpenAI account rotation · Expert / Balanced / Ultra Fast models · encrypted chats · MCP tools · web + mobile</sub>
       <br /><br />
       <a href="https://github.com/Max-109/cracker">
