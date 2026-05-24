@@ -23,7 +23,7 @@
       <h3 align="center">
         <a href="https://github.com/Max-109/cracker">Cracker</a>
       </h3>
-      <p>AI chat web and mobile app focused on UI/UX..</p>
+      <p>AI chat web and mobile app focused on UI/UX.</p>
       <sub>OpenAI account rotation · Expert / Balanced / Ultra Fast models · encrypted chats · MCP tools · web + mobile</sub>
       <br /><br />
       <a href="https://github.com/Max-109/cracker">
@@ -49,6 +49,6 @@
 
 ## [Codex API](https://github.com/Max-109/codex-proxy-rs)
 
-OpenAI-compatible `/v1` proxy backed by a Codex account. It handles Codex login, stores local auth, and exposes model listing plus chat completions for OpenAI-style clients.
+Single binary API which routes the traffic using OpenAI account.
 
-<sub>`/v1/models` · `/v1/chat/completions` · streaming responses · browser/device login · local `cp_...` API keys · `gpt-5.5` and `gpt-5.5-fast`</sub>
+<sub>`/v1/models` · `/v1/chat/completions` · streaming responses · browser/device login · local `cp_...` API keys</sub>
