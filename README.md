@@ -26,20 +26,20 @@
       <p>Private AI chat app with a Next.js web client and an Expo React Native Android app.</p>
       <sub>Expo SDK 56 · React Native 0.85 · PostgreSQL · optional Redis/Valkey sync cache · encrypted chats · MCP tools · OpenAI account rotation</sub>
       <br /><br />
-      <table>
+      <table align="center">
         <tr>
-          <th width="70%">Web app</th>
-          <th width="30%">Mobile app</th>
+          <th width="625" align="center">Web app</th>
+          <th width="225" align="center">Mobile app</th>
         </tr>
         <tr>
-          <td width="70%" valign="top">
+          <td width="625" align="center" valign="top">
             <a href="https://github.com/Max-109/cracker">
-              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="500" />
+              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="625" />
             </a>
           </td>
-          <td width="30%" valign="top">
+          <td width="225" align="center" valign="top">
             <a href="https://github.com/Max-109/cracker">
-              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker-mobile.gif" alt="Cracker mobile app preview" width="180" />
+              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker-mobile.gif" alt="Cracker mobile app preview" width="225" />
             </a>
           </td>
         </tr>
