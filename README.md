@@ -23,8 +23,8 @@
       <h3 align="center">
         <a href="https://github.com/Max-109/cracker">Cracker</a>
       </h3>
-      <p>Private AI chat app with a Next.js web client and an Expo React Native Android app.</p>
-      <sub>Expo SDK 56 · React Native 0.85 · PostgreSQL · optional Redis/Valkey sync cache · encrypted chats · MCP tools · OpenAI account rotation</sub>
+      <p align="center">Private AI chat app with a Next.js web client and an Expo React Native Android app.</p>
+      <p align="center"><sub>Expo SDK 56 · React Native 0.85 · PostgreSQL · optional Redis/Valkey sync cache · encrypted chats · MCP tools · OpenAI account rotation</sub></p>
       <br /><br />
       <h4 align="center">Web app</h4>
       <p align="center">
@@ -48,8 +48,8 @@
       <h3 align="center">
         <a href="https://github.com/Max-109/Glance">Glance</a>
       </h3>
-      <p>Desktop live agent: press a shortcut, speak, hear the answer.</p>
-      <sub>Voice replies · OCR shortcut · Eleven v3 · saved history · memory · tools</sub>
+      <p align="center">Desktop live agent: press a shortcut, speak, hear the answer.</p>
+      <p align="center"><sub>Voice replies · OCR shortcut · Eleven v3 · saved history · memory · tools</sub></p>
       <br /><br />
       <a href="https://github.com/Max-109/Glance">
         <img src="https://raw.githubusercontent.com/Max-109/Glance/main/docs/media/showcase.gif" alt="Glance preview" width="100%" />
