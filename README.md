@@ -33,6 +33,7 @@
         </tr>
         <tr>
           <td width="575" align="center" valign="middle">
+            <br /><br /><br /><br /><br /><br /><br />
             <a href="https://github.com/Max-109/cracker">
               <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="575" />
             </a>
