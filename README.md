@@ -34,12 +34,12 @@
         <tr>
           <td width="70%" valign="top">
             <a href="https://github.com/Max-109/cracker">
-              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="100%" />
+              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="500" />
             </a>
           </td>
           <td width="30%" valign="top">
             <a href="https://github.com/Max-109/cracker">
-              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker-mobile.gif" alt="Cracker mobile app preview" width="100%" />
+              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker-mobile.gif" alt="Cracker mobile app preview" width="180" />
             </a>
           </td>
         </tr>
