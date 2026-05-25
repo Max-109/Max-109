@@ -47,12 +47,8 @@
   </tr>
 </table>
 
-## Stack I’m using lately
-
-<sub>Next.js 16 · React 19 · Expo · React Native · PostgreSQL · Redis/Valkey · Drizzle · Bun · AI SDK · OpenAI-compatible APIs</sub>
-
 ## [Codex API](https://github.com/Max-109/codex-proxy-rs)
 
-Single binary API that routes traffic through an OpenAI account.
+OpenAI-style `/v1` proxy for Codex-backed chat clients. It handles browser or headless Codex login, stores local auth, serves `/v1/models` and `/v1/chat/completions`, and supports streaming responses through local `cp_...` proxy keys.
 
-<sub>`/v1/models` · `/v1/chat/completions` · streaming responses · browser/device login · local `cp_...` API keys</sub>
+<sub>Rust · SSE streaming · `gpt-5.5` / `gpt-5.5-fast` · reasoning effort · priority fast mode · text + `image_url` parts · redacted debug logs</sub>
