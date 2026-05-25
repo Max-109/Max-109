@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <p align="center">
         <img src="./assets/cracker-icon.svg" alt="Cracker icon" width="54" />
       </p>
@@ -26,13 +26,28 @@
       <p>Private AI chat app with a Next.js web client and an Expo React Native Android app.</p>
       <sub>Expo SDK 56 · React Native 0.85 · PostgreSQL · optional Redis/Valkey sync cache · encrypted chats · MCP tools · OpenAI account rotation</sub>
       <br /><br />
-      <p align="center"><strong>Web app</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Mobile app</strong></p>
-      <a href="https://github.com/Max-109/cracker">
-        <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="64%" />
-        <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker-mobile.gif" alt="Cracker mobile app preview" width="28%" />
-      </a>
+      <table>
+        <tr>
+          <th width="70%">Web app</th>
+          <th width="30%">Mobile app</th>
+        </tr>
+        <tr>
+          <td width="70%" valign="top">
+            <a href="https://github.com/Max-109/cracker">
+              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker.gif" alt="Cracker web app preview" width="100%" />
+            </a>
+          </td>
+          <td width="30%" valign="top">
+            <a href="https://github.com/Max-109/cracker">
+              <img src="https://raw.githubusercontent.com/Max-109/cracker/main/cracker-mobile.gif" alt="Cracker mobile app preview" width="100%" />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <p align="center">
         <img src="./assets/glance-icon.svg" alt="Glance icon" width="54" />
       </p>
